@@ -1,0 +1,7 @@
+[2021-10-25 16:14:30 INFO]: install::setup-logging ended
+================
+[2021-10-25 16:14:30 INFO]: install::start-up started
+[2021-10-25 16:14:30 INFO]: install::start-up build image
+[2021-10-25 16:14:30 INFO]: install::start-up running image
+[2021-10-25 16:14:30 INFO]: install::start-up ended
+================
